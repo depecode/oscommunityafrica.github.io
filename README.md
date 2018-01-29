@@ -20,6 +20,23 @@ and [creating pages](https://jekyllrb.com/docs/pages/).
 * Add your **social profiles** easily in `_config.yml`. Only social profiles buttons you enter in `config.yml` show up on the site footer!
 * Set **featured images** in front matter.
 
+## How to run the code
+### Getting the code
+Clone the repository
+### Installation
+Install Ruby and the Gem package manager (pre-installed in Mac OS X) and install `jekyll` and its related packages available in the Github hosted version by running, from this directory:
+
+    bundle install;
+### Running
+Jekyll can run a local web server that rebuilds each time you save a page while editing (Execute the below command from root directory):
+
+    bundle exec jekyll serve --incremental;
+
+Then open [http://localhost:4000](http://localhost:4000)
+### Note
+If some changes are not visible (after saving a page while editing), please restart the Jekyll local web server and reload [http://localhost:4000](http://localhost:4000).
+
+
 # Credits
 
 Original README from HTML5 UP:
