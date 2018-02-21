@@ -18,10 +18,8 @@ tiles-source: posts # accepts "posts" or "pages"
 tiles-count: 6
 
 # social settings
-500px_url:
-facebook_url:
+facebook_url: https://twitter.com/oscafrica
 github_url:
-gitlab_url:
 googleplus_url:
 instagram_url:
 linkedin_url:
