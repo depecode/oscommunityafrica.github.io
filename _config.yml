@@ -18,14 +18,14 @@ tiles-source: posts # accepts "posts" or "pages"
 tiles-count: 6
 
 # social settings
-facebook_url: https://twitter.com/oscafrica
+facebook_url: https://web.facebook.com/opensourcecommunityafrica/
 github_url:
 googleplus_url:
 instagram_url:
 linkedin_url:
 pinterest_url:
 slack_url:
-twitter_url:
+twitter_url: https://twitter.com/oscafrica
 
 # build settings
 markdown: kramdown
