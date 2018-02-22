@@ -1,16 +1,17 @@
 # site settings
 title: Open Source
-subtitle: Africa
+subtitle: .Africa
 email: opensourcecommunityafrica@gmail.com
-description: The official open source website for the whole of Africa where open source informations will be disbursed.
+description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
  # the subpath of your site, e.g. /blog
-url: "oscommunityafrica.github.io" # the base hostname & protocol for your site
-author: Open source community
+baseurl: ""
+url: "" # the base hostname & protocol for your site
+author:
 street_address:
 city:
 state:
 zip_code:
-country: Nigeria
+country:
 phone:
 
 # homepage tiles
@@ -18,15 +19,14 @@ tiles-source: posts # accepts "posts" or "pages"
 tiles-count: 6
 
 # social settings
-500px_url: "https://scontent.flos5-1.fna.fbcdn.net/v/t1.0-1/c33.0.200.200/p200x200/28059173_201250730623948_8468463941351751796_n.jpg?oh=4961ed2eeb862efff0d61de6e31b3caa&oe=5B1837B3"
-facebook_url: "https://web.facebook.com/opensourcecommunityafrica/"
-github_url: "https://github.com/oscommunityafrica"
+facebook_url: https://web.facebook.com/opensourcecommunityafrica/
+github_url: https://github.com/oscommunityafrica
 googleplus_url:
 instagram_url:
 linkedin_url:
 pinterest_url:
 slack_url:
-twitter_url: "https://twitter.com/@oscafrica"
+twitter_url: https://twitter.com/oscafrica
 
 # build settings
 markdown: kramdown
