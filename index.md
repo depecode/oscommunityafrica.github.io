@@ -1,17 +1,10 @@
 ---
 layout: home
 title: Home
-landing-title: 'Hi, this is Open Source Africa'
-author: OscAfrica
+landing-title: 'Hi, my name is Forty'
+description: null
+image: null
+author: null
 ---
-  {% for post in site.posts %}
-  <article>
-    <h2>
-      <a href="{{ post.url }}">
-        {{ post.image }} 
-      </a>
-    </h2>
-    <time datetime="{{ post.date | date: "%Y-%m-%d" }}">{{ post.date | date_to_long_string }}</time>
-    {{ post.content }}
-  </article>
-{% endfor %}
+
+Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna.dfdMaecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.
