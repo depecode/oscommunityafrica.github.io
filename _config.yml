@@ -2,7 +2,7 @@
 title: Open Source
 subtitle: .Africa
 email: opensourcecommunityafrica@gmail.com
-description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
+description: We are a new budding community of open source lovers in Africa.
  # the subpath of your site, e.g. /blog
 baseurl: ""
 url: "" # the base hostname & protocol for your site
@@ -25,7 +25,7 @@ googleplus_url:
 instagram_url:
 linkedin_url:
 pinterest_url:
-slack_url:
+slack_url: https://oscommunityafrica.slack.com/
 twitter_url: https://twitter.com/oscafrica
 
 # build settings

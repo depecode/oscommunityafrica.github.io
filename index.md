@@ -1,10 +1,10 @@
 ---
 layout: home
 title: Home
-landing-title: 'Hi, my name is Forty'
-description: null
+landing-title: 'Open Source Community Africa'
+description: 
 image: null
 author: null
 ---
 
-Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna.dfdMaecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.
+We are a new budding community of open source lovers in Africa and already have members in several countries in and outside Africa. We are growing and would love for you to be a part of the new movement as we help change African developers from being just consumers of technology to creators! We are open to newbies, intermediates experts e.t.c and are also not gender or culture biased. Join Us!  We Need You!.
